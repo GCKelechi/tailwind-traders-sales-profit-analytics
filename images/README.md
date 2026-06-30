@@ -23,7 +23,7 @@
 * Year-to-Date Profit KPI
   
 * Net Revenue KPI
-* 
+  
 * Profit Margin Analysis
   
 * Profit Margin Trend
