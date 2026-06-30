@@ -1,4 +1,15 @@
- # Dashboard Architecture
+# Tailwind Traders Sales & Profit Analytics Dashboard
+
+# Executive Summary
+
+The Tailwind Traders Sales & Profit Analytics Dashboard is an interactive Business Intelligence solution developed using Microsoft Power BI to enable executives and business stakeholders to monitor organizational performance through data-driven insights.
+
+The dashboard consolidates sales, profitability, inventory, customer loyalty, and product performance into an intuitive reporting experience. By transforming transactional data into meaningful visualizations, the solution enables users to identify trends, evaluate business performance across countries, monitor key performance indicators (KPIs), and support strategic decision-making.
+
+The project demonstrates the application of modern Business Intelligence practices including data modeling, DAX calculations, time intelligence, interactive filtering, KPI reporting, and dashboard design.
+
+
+# Dashboard Architecture
 
 Data Sources
       │
