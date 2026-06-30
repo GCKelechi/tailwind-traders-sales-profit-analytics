@@ -1,11 +1,12 @@
-# tailwind-traders-sales-profit-analytics
-Interactive Business Intelligence dashboard built with Microsoft Power BI for sales, profitability, inventory, and customer analytics.
+# Dashboard Architecture
 
-
-Excel Dataset
+Data Sources
       │
       ▼
 Power Query
+      │
+      ▼
+Data Cleaning
       │
       ▼
 Data Model
@@ -17,8 +18,7 @@ DAX Measures
 Interactive Dashboard
       │
       ▼
-Business Insights
-
+Business Decisions
 
 # Tailwind Traders Sales & Profit Analytics Dashboard
 
@@ -60,6 +60,7 @@ The dashboard enables stakeholders to:
 # Dashboard Features
 
 # Sales Overview
+![Sales Overview](images/Sales_Overview_Dashboard.png)
 
 * Sales KPI cards
 * Customer Loyalty by Country
@@ -70,7 +71,7 @@ The dashboard enables stakeholders to:
 * Interactive Country Slicer
 
 # Profit Overview
-
+![Profit Overview](images/profit-overview.png)
 * Year-to-Date Profit KPI
 * Net Revenue KPI
 * Profit Margin Analysis
