@@ -1,3 +1,17 @@
+# Business Problem
+
+Business leaders require timely and accurate insights into sales performance, profitability, customer engagement, and inventory levels. Without centralized reporting, decision-makers spend significant time consolidating information from multiple sources before meaningful analysis can begin.
+
+This dashboard addresses that challenge by providing a centralized reporting platform where executives can:
+
+* Monitor revenue and profit performance
+* Track sales trends over time
+* Compare business performance across countries
+* Evaluate product performance
+* Analyze customer loyalty
+* Monitor inventory availability
+* Support strategic and operational decision-making through interactive reporting
+
 # Skills Demonstrated
 
 # Business Intelligence
