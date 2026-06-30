@@ -47,8 +47,8 @@ Potential future improvements include:
 # Author
 
 Godwin Chukwuemeka Kelechi
-LinkedIn: https://www.linkedin.com/in/godwin-kelechi
+
 
 Data Analyst | Business Intelligence | Power BI | SQL | Python
 
-LinkedIn: https://www.linkedin.com/in/godwin-kele
+LinkedIn: https://www.linkedin.com/in/godwin-kelechi
