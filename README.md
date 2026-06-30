@@ -60,7 +60,7 @@ The dashboard enables stakeholders to:
 # Dashboard Features
 
 # Sales Overview
-![Sales Overview](images/Sales_Overview_Dashboard.png)
+![Sales Overview](Sales_Overview_Dashboard.png)
 
 * Sales KPI cards
 * Customer Loyalty by Country
