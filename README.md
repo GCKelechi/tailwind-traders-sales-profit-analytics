@@ -71,7 +71,7 @@ The dashboard enables stakeholders to:
 * Interactive Country Slicer
 
 # Profit Overview
-![Profit Overview](images/profit-overview.png)
+![Profit Overview](Profit_Overview_Dashboard.PNG)
 * Year-to-Date Profit KPI
 * Net Revenue KPI
 * Profit Margin Analysis
