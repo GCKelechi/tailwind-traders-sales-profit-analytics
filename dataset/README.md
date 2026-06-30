@@ -1,32 +1,11 @@
-# Project Overview
+# Dataset
 
-The Tailwind Traders Sales & Profit Analytics Dashboard was developed to provide business stakeholders with a centralized view of organizational performance. The dashboard transforms raw transactional data into actionable insights through interactive visualizations, enabling decision-makers to monitor sales trends, evaluate profitability, analyze customer behavior, and identify high-performing products.
+The original dataset used for this project is not included in this repository due to licensing and usage restrictions.
 
-This project demonstrates the practical application of Business Intelligence, data modeling, DAX, Power Query, and interactive dashboard design using Microsoft Power BI.
+This repository is intended to showcase the Power BI solution, including the data model, DAX calculations, dashboard design, and business intelligence techniques used to develop the report.
 
-# Business Problem
+If you would like to reproduce this project, you can use a similar sales dataset or the publicly available Tailwind Traders sample data provided by Microsoft, where applicable.
 
-Organizations often store operational data across multiple systems, making it difficult for decision-makers to obtain a unified view of business performance. Without interactive reporting, executives spend significant time consolidating data before meaningful analysis can begin.
 
-This dashboard addresses that challenge by providing a single source of truth for monitoring key business metrics through intuitive and interactive reports.
-
-# Business Objectives
-
-The dashboard enables stakeholders to:
-
-* Monitor overall sales performance
-* Track revenue and profitability trends
-* Analyze customer loyalty across countries
-* Evaluate product sales performance
-* Monitor inventory levels
-* Compare business performance by region
-* Support data-driven strategic decision-making
-
-# Technologies Used
-
-* Microsoft Power BI Desktop
-* Power Query
-* DAX (Data Analysis Expressions)
-* Data Modeling
 * Time Intelligence
 * Interactive Visualizations
